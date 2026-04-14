@@ -24,3 +24,17 @@ Landing page ini dibuat sebagai tugas Modul 6 dengan tujuan:
 - Google Fonts (Poppins)
 
 ## 📂 Struktur Project
+
+## 🌐 Live Demo
+👉 https://hakwashere.github.io/saas-landing/
+
+
+## 📸 Screenshot
+<img width="1920" height="1461" alt="image" src="https://github.com/user-attachments/assets/7157a4e1-9c77-4d92-b158-3ef6014f615d" />
+
+
+## 👨‍💻 Author
+- Nama: Haka Kayla Mustawa
+
+
+💡 Project ini dibuat untuk keperluan pembelajaran Web Development.
